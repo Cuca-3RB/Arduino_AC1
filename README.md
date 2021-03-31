@@ -13,6 +13,19 @@ oii! Sou a Lana e tenho 16 anos, moro em sp, amo viajar;
 - **Luiza Poroca**
 Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cinema, instrumentos, música, enfim.. tudo que está relacionado a arte.
 
+### Imagem de cada membro
+**Ana Beatriz**
+
+**Ana Clara** 
+
+**Bianca**
+
+**Julia Gomes**
+
+**Lana**
+
+**Luiza Poroca**
+![]
 ## *O PROBLEMA:* 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
