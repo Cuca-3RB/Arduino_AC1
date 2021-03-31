@@ -1,16 +1,16 @@
 # Grupo Cuca 
 ### Membros:   
-- Ana Beatriz
+- Ana  Beatriz :
 Oie! Sou a Ana Beatriz e tenho 18 anos eu gosto de jogar e ver lives e anime, tenho 1,80 de altura moro em São Paulo, gosto de ler mangas e de ficar em casa;
-- Ana Clara
+- Ana  Clara:
 Oii! Sou a Ana Clara e tenho 17 anos, gosto de viajar e ouvir musica, more em SP, amo os animais;
-- Bianca
+- Bianca:
 oieee! Sou a Bianca e tenho 17 anos, moro em são Paulo, tenho 1,63 de altura e amo viajar, conversar, tirar fotos, cantar e dançar;
-- Julia Gomes 
+- Julia Gomes :
 Oioii! Sou a Julia, tenho 17 anos e sou pisciana , amo qualquer tipo de arte ou movimento artístico, amo dançar, ver filmes e ler vários livros, meu passatempo preferido é fazer nada;
-- Lana
+- Lana:
 oii! Sou a Lana e tenho 16 anos, moro em sp, amo viajar;
-- Luiza Poroca
+- Luiza Poroca:
 Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cinema, instrumentos, música, enfim.. tudo que está relacionado a arte.
 
 ## *O PROBLEMA:* 
