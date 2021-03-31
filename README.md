@@ -1,5 +1,5 @@
 # Grupo Cuca 
-##membros :
+### Membros:   
 - Ana Beatriz
 Oie! Sou a Ana Beatriz e tenho 18 anos eu gosto de jogar e ver lives e anime, tenho 1,80 de altura moro em São Paulo, gosto de ler mangas e de ficar em casa;
 - Ana Clara
@@ -17,7 +17,7 @@ Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cin
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
 
-##Funcionalidades 
+### Funcionalidades 
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 - Leitura do sensor de temperatura e teste, ao atingir *15℃* o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
 - Leitura do sensor de luminosidade e teste, ao indicar um valor acima de *5* a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
@@ -111,4 +111,4 @@ int getLuminosidade(){
   	return luminosidade;
 }
 ```
-##Fim  ;) 
+### Fim ;)
