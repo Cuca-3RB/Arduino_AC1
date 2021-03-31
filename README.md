@@ -23,7 +23,7 @@ Seu grupo foi contratado para realizar a automação do chão de fábrica de uma
 - Leitura do sensor de luminosidade e teste, ao indicar um valor acima de *5* a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
 
 ### Imagem  da automação
-
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image.png)
 ### Link para ver a  funcionalidade da automação
 https://www.tinkercad.com/things/8YGc1t7gm6s-magnificent-wolt-robo/editel?tenant=circuits
 
