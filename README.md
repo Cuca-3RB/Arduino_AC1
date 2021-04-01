@@ -32,18 +32,20 @@ Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cin
 
 **Bianca**
 
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(6).png)
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(2).png)
 
 **Julia Gomes**
 
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(6).png)
 
 
 **Lana**
 
-
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(5).png)
 
 **Luiza Poroca**
 
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(7).png)
 
 ## *O PROBLEMA:* 
 
