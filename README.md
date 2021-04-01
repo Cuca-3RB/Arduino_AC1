@@ -14,15 +14,15 @@ oii! Sou a Lana e tenho 16 anos, moro em sp, amo viajar;
 Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cinema, instrumentos, música, enfim.. tudo que está relacionado a arte.
 
 ### Imagem de cada membro
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/d0aa16d9-0021-4f76-ae4b-7d9a46fb3c87.jpg)
+
 
 **Ana Beatriz**
  
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(4).png)
+
 
 **Ana Clara**
 
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(2).png)
+
 
 **Bianca**
 
@@ -30,11 +30,11 @@ Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cin
 
 **Julia Gomes**
 
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(5).png)
+
 
 **Lana**
 
-![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(7).png)
+
 
 **Luiza Poroca**
 
