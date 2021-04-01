@@ -28,7 +28,7 @@ Oie! Sou a Luiza Poroca, tenho 16 anos e 1,58 de altura! Amo teatro musical, cin
 
 **Ana Clara**
 
-
+![](https://github.com/Cuca-3RB/Arduino_AC1/blob/main/image%20(4).png)
 
 **Bianca**
 
