@@ -145,4 +145,9 @@ int getLuminosidade(){
   	return luminosidade;
 }
 ```
+**observções**
+- O código está com os coment dentro dele sinalizado pela "//" 
+- Nosso grupo aconselha a entrar no link indicado para ver a funcionalidade completa da nossa automação 
+- Qualquer dúvida ou cometário a respeito desse projeto pode entrar em contato no nosso emial para: cuca.3RB@gmail.com
+
 ### Fim ;)
